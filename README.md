@@ -2,7 +2,6 @@
 1일 1 알고리즘
 
 
-Language : Java & Python
 
 ### BaekJoon:
 
