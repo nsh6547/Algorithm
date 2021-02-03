@@ -19,5 +19,7 @@
 
 [1873]상호의 배틀필드([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_1873_%EC%83%81%ED%98%B8%EC%9D%98%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C.java))
 
+[2001]파리 퇴치([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_2001_%ED%8C%8C%EB%A6%AC%ED%87%B4%EC%B9%98.java))
+
 [2805]농작물수확하기([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_2085_%EB%86%8D%EC%9E%91%EB%AC%BC%EC%88%98%ED%99%95%ED%95%98%EA%B8%B0.java))
 
