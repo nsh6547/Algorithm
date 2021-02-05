@@ -21,9 +21,12 @@
 
 [1289]원재의 메모리 복구하기 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210201/SW_Expert_1289_%EC%9B%90%EC%9E%AC%EC%9D%98%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%B3%B5%EA%B5%AC%ED%95%98%EA%B8%B0.java) , [Python](https://github.com/nsh6547/Algorithm/blob/master/210201/SW_Expert_1289_%EC%9B%90%EC%9E%AC%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%B3%B5%EA%B5%AC%ED%95%98%EA%B8%B0.py))
 
+[1861]정사각형방([Java](https://github.com/nsh6547/Algorithm/blob/master/210205/SWEA_1861_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EB%B0%A9.java))
+
 [1873]상호의 배틀필드([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_1873_%EC%83%81%ED%98%B8%EC%9D%98%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C.java))
 
 [2001]파리 퇴치([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_2001_%ED%8C%8C%EB%A6%AC%ED%87%B4%EC%B9%98.java))
 
 [2805]농작물수확하기([Java](https://github.com/nsh6547/Algorithm/blob/master/210203/SWEA_2085_%EB%86%8D%EC%9E%91%EB%AC%BC%EC%88%98%ED%99%95%ED%95%98%EA%B8%B0.java))
 
+[3499]퍼펙트셔플([Java](https://github.com/nsh6547/Algorithm/blob/master/210205/SWEA_3499_%ED%8D%BC%ED%8E%99%ED%8A%B8%EC%85%94%ED%94%8C.java))
