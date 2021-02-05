@@ -3,12 +3,12 @@
 
 
 
-### BaekJoon:
+## BaekJoon:
 
 
 [1244]스위치켜고끄기 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.py))
 
-### SW_Expert_Academy:
+## SW_Expert_Academy:
 
 
 [1208]Flatten ([Java](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.py))
