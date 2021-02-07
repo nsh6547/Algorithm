@@ -8,6 +8,19 @@
 
 [1244]스위치켜고끄기 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.py))
 
+[2810]컵홀더([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_2810_%EC%BB%B5%ED%99%80%EB%8D%94.java))
+
+[2851]슈퍼마리오([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_2851_%EC%8A%88%ED%8D%BC%EB%A7%88%EB%A6%AC%EC%98%A4.java))
+
+[2999]비밀이메일([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_2999_%EB%B9%84%EB%B0%80%EC%9D%B4%EB%A9%94%EC%9D%BC.java))
+
+[3985]롤케이크([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_3985_%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC.java))
+
+[8958]OX퀴즈*[Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_8958_OX%ED%80%B4%EC%A6%88.java))
+
+[11399]ATM([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_11399_ATM.java))
+
+
 ## SW_Expert_Academy:
 
 
