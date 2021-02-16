@@ -27,7 +27,7 @@
 [11399]ATM([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_11399_ATM.java))
 
 
-## SW_Expert_Academy:
+## SW Expert Academy:
 
 
 [1208]Flatten ([Java](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.py))
@@ -54,7 +54,7 @@
 
 [9229]한빈이와 SpotMart([Java](https://github.com/nsh6547/Algorithm/blob/master/210208/SWEA_9229_%ED%95%9C%EB%B9%88%EC%9D%B4%EC%99%80SpotMart.java))
 
-## SW_Expert_Academy:
+## JungOl:
 
 
 [1828]냉장고 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210216/JungOl_1828_%EB%83%89%EC%9E%A5%EA%B3%A0.java))
