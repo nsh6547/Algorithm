@@ -8,6 +8,8 @@
 
 [1244]스위치켜고끄기 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210201/BaekJoon_1244_%EC%8A%A4%EC%9C%84%EC%B9%98%EC%BC%9C%EA%B3%A0%EB%81%84%EA%B8%B0.py))
 
+[1992]쿼드트리([Java](https://github.com/nsh6547/Algorithm/blob/master/210217/BaekJoon_1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java))
+
 [2563]색종이([Java](https://github.com/nsh6547/Algorithm/blob/master/210209/BaekJoon_2563_%EC%83%89%EC%A2%85%EC%9D%B4.java))
 
 [2810]컵홀더([Java](https://github.com/nsh6547/Algorithm/blob/master/210207/BaekJoon_2810_%EC%BB%B5%ED%99%80%EB%8D%94.java))
