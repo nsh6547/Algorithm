@@ -32,6 +32,7 @@
 
 ## SW Expert Academy:
 
+[1767]프로세스연결([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/SWEA_1767_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%97%B0%EA%B2%B0.java))
 
 [1208]Flatten ([Java](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.java), [Python](https://github.com/nsh6547/Algorithm/blob/master/210202/SW_Expert_1208_Flatten.py))
 
@@ -59,9 +60,20 @@
 
 [3499]퍼펙트셔플([Java](https://github.com/nsh6547/Algorithm/blob/master/210205/SWEA_3499_%ED%8D%BC%ED%8E%99%ED%8A%B8%EC%85%94%ED%94%8C.java))
 
+[4789]성공적인 공연기획([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/SWEA_4789_%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%EA%B3%B5%EC%97%B0%EA%B8%B0%ED%9A%8D.java))
+
+[5356]의석이의 세로로 말해요([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/SWEA_5356_%EC%9D%98%EC%84%9D%EC%9D%B4%EC%9D%98%EC%84%B8%EB%A1%9C%EB%A1%9C%EB%A7%90%ED%95%B4%EC%9A%94.java))
+
+[6485]삼성시의버스노선([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/SWEA_6485_%EC%82%BC%EC%84%B1%EC%8B%9C%EC%9D%98%EB%B2%84%EC%8A%A4%EB%85%B8%EC%84%A0.java))
+
+[7964]부먹왕국의차원관문([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/SWEA_7964_%EB%B6%80%EB%A8%B9%EC%99%95%EA%B5%AD%EC%9D%98%EC%B0%A8%EC%9B%90%EA%B4%80%EB%AC%B8.java))
+
 [9229]한빈이와 SpotMart([Java](https://github.com/nsh6547/Algorithm/blob/master/210208/SWEA_9229_%ED%95%9C%EB%B9%88%EC%9D%B4%EC%99%80SpotMart.java))
 
 ## JungOl:
 
+[1037]오류교정([Java](https://github.com/nsh6547/Algorithm/blob/master/210224/JungOl_1037_%EC%98%A4%EB%A5%98%EA%B5%90%EC%A0%95.java))
+
+[1205]조커([Java](https://github.com/nsh6547/Algorithm/blob/master/210225/JungOl_1205_%EC%A1%B0%EC%BB%A4.java))
 
 [1828]냉장고 ([Java](https://github.com/nsh6547/Algorithm/blob/master/210216/JungOl_1828_%EB%83%89%EC%9E%A5%EA%B3%A0.java))
